@@ -1,0 +1,8 @@
+Requerimientos funcionales:
+>El sistema debe registrar los trabajos precentados a nivel de pregrado y de postgrado dirigidos por profesores de los centros.
+>El sistema debe generar un reporte para un periodo determinado de cada profesor el número de trabajos de investigación que ha
+dirigido y fueron presentados para su defensa.
+>El sistema debe generar un reporte para un pariodo determinado del número de trabajos presentados para su defensa, dirigidos
+por profesores de un centro de investigación.
+>El sistema debe generar un reporte para un pariodo determinado de los profesores de la escuela que presentaron su TGM o TDR 
+ante el postgrado.
